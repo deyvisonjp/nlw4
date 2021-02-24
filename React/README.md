@@ -13,16 +13,9 @@ A aplicação se caracteriza em criar períodos determinados de estudo e tempos 
 - ReactJS / TypeScript / Next.js
 - Node / Yarn / 
 
-## Ferramentas mencionadas nas aulas
-- [whimsical](https://whimsical.com/)
-
-## Iniciando o projeto
-- Criando o projeto
-`yarn create react-app nomedoprojeto --template=typescript`
-
 # NLW 4 - Segundo dia
 [Benefícios ao se utilizar NextJS](https://medium.com/techbloghotmart/o-que-%C3%A9-server-side-rendering-e-como-usar-na-pr%C3%A1tica-a840d76a6dca)   
-_Com o Next.js ganhamos agilidade tanto no desenvolvimento quanto na pergformance do app, uma vez que temos um servidor intermediário para rodar nosso SPA (Entre o back e o front)_
+_Com o Next.js ganhamos agilidade no desenvolvimento e pergformance na aplicação, uma vez que temos um servidor intermediário para rodar nosso SPA (Entre o back e o front)_
 
 ## Iniciando a aplicação com Next.js
 `yarn create next-app nome-da-app`
@@ -31,4 +24,11 @@ _Com o Next.js ganhamos agilidade tanto no desenvolvimento quanto na pergformanc
 `yarn add typescript @types/react @types/react-dom @types/node -D`
 
 
-# Como executar o projeto
+# Como executar o projeto   
+________________________________________________________________________________________________________________________
+## Iniciando o projeto (Aula 1)
+- Criando o projeto
+`yarn create react-app nomedoprojeto --template=typescript`
+## Ferramentas mencionadas nas aulas
+- Figma
+- [whimsical](https://whimsical.com/)
