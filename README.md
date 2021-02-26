@@ -1,5 +1,5 @@
 # NLW 4 - Trilha React
-![Screenshot](https://github.com/deyvisonjp/nlw4/tree/main/React/moveit-next/public/logo-full.svg)
+![Screenshot](https://raw.githubusercontent.com/deyvisonjp/nlw4/0fe195f9aeec2c8c32a410e7cad9195a393aeede/React/moveit-next/public/logo-full.svg)
 # Sobre o projeto
 
 moveit é uma aplicação react, construída durante a 4ª edição da **NLW**, evento organizado pela [Rocketseat](https://rocketseat.com.br/ "Site da Rocketseat").
