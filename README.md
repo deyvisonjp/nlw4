@@ -2,7 +2,7 @@
 ![Screenshot](https://raw.githubusercontent.com/deyvisonjp/nlw4/0fe195f9aeec2c8c32a410e7cad9195a393aeede/React/moveit-next/public/logo-full.svg)
 # Sobre o projeto
 
-moveit é uma aplicação react, construída durante a 4ª edição da **NLW**, evento organizado pela [Rocketseat](https://rocketseat.com.br/ "Site da Rocketseat").
+move.it é uma aplicação react, construída durante a 4ª edição da **NLW**, evento organizado pela [Rocketseat](https://rocketseat.com.br/ "Site da Rocketseat").
 
 A aplicação se caracteriza em criar períodos determinados de estudo e tempos de descanso com atividades (gamificadas). Idéia parecida com a Técnica pomodoro.
 <br/>
